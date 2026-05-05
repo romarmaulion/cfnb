@@ -1,10 +1,7 @@
-166.88.97.209:443#JP windows
-96.126.130.225:443#JP windows
+154.12.191.135:443#JP windows
 82.40.34.166:443#JP windows
-50.114.113.51:443#JP windows
-45.78.58.124:443#JP windows
-166.88.14.28:443#JP windows
-216.23.86.72:443#JP windows
-206.251.55.197:443#JP windows
-5.34.223.50:443#JP windows
-154.12.191.213:443#JP windows
+154.12.190.210:443#JP windows
+103.117.103.70:443#JP windows
+154.36.183.65:443#JP windows
+154.12.190.152:443#JP windows
+154.31.117.113:443#JP windows
