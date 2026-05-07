@@ -1,7 +1,10 @@
-68.64.182.39:443#HK windows
-68.64.183.243:443#HK windows
 8.223.63.189:443#HK windows
-91.213.189.55:443#HK windows
-83.229.127.153:443#HK windows
-68.64.178.42:443#HK windows
-8.223.63.150:443#HK windows
+43.168.16.112:443#HK windows
+103.44.255.29:443#HK windows
+101.32.45.95:443#HK windows
+119.28.66.34:443#HK windows
+45.131.179.92:443#HK windows
+154.219.103.79:443#HK windows
+8.210.17.242:443#HK windows
+45.192.96.32:443#HK windows
+129.226.165.225:443#HK windows
